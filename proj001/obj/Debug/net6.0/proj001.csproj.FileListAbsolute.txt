@@ -1,0 +1,15 @@
+C:\Desktop\гикбрейнс\C#\less1\examp001\proj001\bin\Debug\net6.0\proj001.exe
+C:\Desktop\гикбрейнс\C#\less1\examp001\proj001\bin\Debug\net6.0\proj001.deps.json
+C:\Desktop\гикбрейнс\C#\less1\examp001\proj001\bin\Debug\net6.0\proj001.runtimeconfig.json
+C:\Desktop\гикбрейнс\C#\less1\examp001\proj001\bin\Debug\net6.0\proj001.dll
+C:\Desktop\гикбрейнс\C#\less1\examp001\proj001\bin\Debug\net6.0\proj001.pdb
+C:\Desktop\гикбрейнс\C#\less1\examp001\proj001\obj\Debug\net6.0\proj001.csproj.AssemblyReference.cache
+C:\Desktop\гикбрейнс\C#\less1\examp001\proj001\obj\Debug\net6.0\proj001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\гикбрейнс\C#\less1\examp001\proj001\obj\Debug\net6.0\proj001.AssemblyInfoInputs.cache
+C:\Desktop\гикбрейнс\C#\less1\examp001\proj001\obj\Debug\net6.0\proj001.AssemblyInfo.cs
+C:\Desktop\гикбрейнс\C#\less1\examp001\proj001\obj\Debug\net6.0\proj001.csproj.CoreCompileInputs.cache
+C:\Desktop\гикбрейнс\C#\less1\examp001\proj001\obj\Debug\net6.0\proj001.dll
+C:\Desktop\гикбрейнс\C#\less1\examp001\proj001\obj\Debug\net6.0\refint\proj001.dll
+C:\Desktop\гикбрейнс\C#\less1\examp001\proj001\obj\Debug\net6.0\proj001.pdb
+C:\Desktop\гикбрейнс\C#\less1\examp001\proj001\obj\Debug\net6.0\proj001.genruntimeconfig.cache
+C:\Desktop\гикбрейнс\C#\less1\examp001\proj001\obj\Debug\net6.0\ref\proj001.dll
